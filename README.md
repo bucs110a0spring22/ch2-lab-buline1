@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+My code runs really well. The cost per class is calculted in part A and a random number is chosen from my list in part B.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ I was able to complete all parts of the assignment.
 
 ## REFERENCES:
- < List any outside resources used >
+Not applicable
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+No other comments. Lab was fairly simple and went well.
